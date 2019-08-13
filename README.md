@@ -1,20 +1,9 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# ultimate-tic-tac-toe
 
----
+https://ulitmate-tic-tac-toe.pwjablonski.now.sh/
 
-# svelte app
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
-
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
-
+[Rules](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe)
 
 ## Get started
 
@@ -49,21 +38,3 @@ Then, from within your project folder:
 ```bash
 now
 ```
-
-As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
-
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
-
-```bash
-npm install -g surge
-```
-
-Then, from within your project folder:
-
-```bash
-npm run build
-surge public
-```
-# ultimate-tic-tac-toe
